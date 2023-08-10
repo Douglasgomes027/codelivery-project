@@ -24,19 +24,15 @@ Welcome to **Codelivery Project**, a comprehensive solution that integrates Apac
 1. Clone the repository:
    ```bash
    git clone https://github.com/Douglasgomes027/codelivery-project.git
-
 2. Navigate to the project directory:
     ```
     cd codelivery-project
-
 3. Install dependencies:
     ```
     npm install
-
 4. Start the services using Docker:
     ```
     docker-compose up -d
-
 5. Access the React frontend at http://localhost:3000.
 
 
